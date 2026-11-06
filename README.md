@@ -6,3 +6,4 @@ Android 设备遥测、统计、后台跟踪域名拦截清单，适用于 AdGua
 > ⚠️ 注意：部分拦截规则可能影响系统更新、崩溃反馈、部分APP正常统计功能，请自行取舍。
 
 ## 📥 订阅地址：  https://raw.githubusercontent.com/happyounth-cmd/Android_Telemetry_Block/refs/heads/main/android-telemetry.txt
+<img width="1308" height="1118" alt="HWWuKxub0AAdP9m" src="https://github.com/user-attachments/assets/73ae2c81-54d2-4cc2-af09-ca4e3d5cf506" />
