@@ -21,3 +21,4 @@
 ||rtapplog.snssdk.com^
 ||rtlog.snssdk.com^
 ||rttgpsreport.map.qq.com^
+||dm.wo.com.cn^
